@@ -1,3 +1,5 @@
+<div style="background-color: black; color: white; padding: 20px;">
+  
 ### Hi there 👋, my name is Koki Nakeni
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/C4D16AQGVtw1ZoJ53FA/profile-displaybackgroundimage-shrink_350_1400/0/1668085827827?e=1697673600&v=beta&t=N--mNbu3zyZNQLK4X-nVIED838QUKQ4GDubmK1bFj64)
@@ -8,4 +10,8 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 
 - 🔭 I’m currently working on Learning new technologies to make systems and web applications operate on a larger scale for companies 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am very good at Chess and love Pizza ![Pizza](https://avatars.githubusercontent.com/u/78009942?s=280&v=4)
+- ⚡ Fun fact: I am very good at Chess and love Pizza
+  ![Pizza](https://avatars.githubusercontent.com/u/78009942?s=280&v=4)
+  ![Chess](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.popularmechanics.com%2Fscience%2Fmath%2Fa39024248%2Fharvard-mathematician-solves-150-year-old-chess-problem%2F&psig=AOvVaw2FOtHYa2dc1PxUIzVIPzBV&ust=1692528101219000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLim3tTE6IADFQAAAAAdAAAAABAE)
+
+</div>
