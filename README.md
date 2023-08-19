@@ -14,6 +14,7 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 
 - 
   ![Pizza](https://avatars.githubusercontent.com/u/78009942?s=280&v=4)
+  
   ![Chess](https://img.freepik.com/free-vector/chess-game-concept-with-realistic-board-black-white-pieces_1284-13711.jpg?w=360)
 
 </div>
