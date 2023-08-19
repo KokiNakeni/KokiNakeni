@@ -10,7 +10,7 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 
 - 🔭 I’m currently working on Learning new technologies to make systems and web applications operate on a larger scale for companies 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am very good at Chess and love Pizza  
+- ⚡ Fun fact: I am very good at Chess and love Pizza  https://avatars.githubusercontent.com/u/78009942?s=280&v=4
 
 
 
