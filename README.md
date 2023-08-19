@@ -12,6 +12,6 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am very good at Chess and love Pizza
   ![Pizza](https://avatars.githubusercontent.com/u/78009942?s=280&v=4)
-  ![Chess](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.popularmechanics.com%2Fscience%2Fmath%2Fa39024248%2Fharvard-mathematician-solves-150-year-old-chess-problem%2F&psig=AOvVaw2FOtHYa2dc1PxUIzVIPzBV&ust=1692528101219000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLim3tTE6IADFQAAAAAdAAAAABAE)
+  ![Chess](https://img.freepik.com/free-vector/chess-game-concept-with-realistic-board-black-white-pieces_1284-13711.jpg?w=360)
 
 </div>
