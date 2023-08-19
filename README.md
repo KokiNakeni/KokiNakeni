@@ -29,4 +29,4 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokinakeni&show_icons=true&locale=en&layout=compact" alt="kokinakeni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokinakeni&show_icons=true&locale=en" alt="kokinakeni" /></p>
-el="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" 
+ 
