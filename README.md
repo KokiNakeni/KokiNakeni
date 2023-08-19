@@ -1,7 +1,5 @@
 # Hi there, I'm Koki! 👋
 
-https://github.com/account
-
 ### Hi there 👋, my name is Koki Nakeni
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/C4D16AQGVtw1ZoJ53FA/profile-displaybackgroundimage-shrink_350_1400/0/1668085827827?e=1697673600&v=beta&t=N--mNbu3zyZNQLK4X-nVIED838QUKQ4GDubmK1bFj64)
