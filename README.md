@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white; padding: 20px;">
+<div style="background-color: black; color: white; padding: 20px; background-image: url('[background_image_url_here](https://www.istockphoto.com/photo/moon-and-earth-gm178479362-24648841?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fphotos%2FQ1p7bh3SHj8&utm_term=energy%3A%3A%3A)'); background-size: cover;">
   
 ### Hi there 👋, my name is Koki Nakeni
 #### Software Engineer
@@ -11,8 +11,6 @@ Skills: .NET 5 +/C# / JS / HTML / CSS/ UX UI
 - 🔭 I’m currently working on Learning new technologies to make systems and web applications operate on a larger scale for companies 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am very good at Chess and love Pizza
-
-
   ![Pizza](https://avatars.githubusercontent.com/u/78009942?s=280&v=4)
   ![Chess](https://img.freepik.com/free-vector/chess-game-concept-with-realistic-board-black-white-pieces_1284-13711.jpg?w=360)
 
